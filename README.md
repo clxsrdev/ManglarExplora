@@ -9,6 +9,7 @@
 <p align="center">ManglarExplora educa y compromete a los usuarios con la preservación de los manglares al destacar su biodiversidad y su función esencial como barreras naturales ante el cambio climático.</p>
 <br>
 <h4 align="center">¡Únete y descubre la clave para su preservación!</h4>
+<br>
 
 ## 🛠️ Tecnologías usadas
 <div align="center">
@@ -30,7 +31,9 @@
     
   - <strong>CoreML</strong>
     - Para la implementación de Machine Learning a un clasificador de objetos para mostrar su biodegradabilidad mediante la galería o la cámara.
-      
+
+<br>
+
 ## 📑 Objetivos a cumplir
 
 <p align="center">Crear conciencia sobre la importancia de preservar los manglares es esencial, ya que su protección ofrece beneficios sustanciales tanto para la sociedad como para el medio ambiente natural. Generando experiencias llamativas, interactivas y divertidas para el usuario dentro de la misma aplicación.</p><br>
@@ -43,13 +46,14 @@
     <a href="https://github.com/Michelle-AV"><img style="width:30%; height:30%" src="https://github.com/clxsrdev/ManglarExplora/assets/99055585/b5a2d037-25d3-4139-9f05-9fc3c1f8aa65"/></a>
 </div>
 <br>
- - <strong>Lizeth Rodriguez <a href="https://github.com/lizeth45">(lizeth45):</a> </strong>Elaboró la creación del modelo 3D, la implementación del mismo dentro de la aplicación en SwiftUI y entrenamiento de un modelo precargado de Machine Learning.
+ - <strong>Lizeth Rodriguez <a href="https://github.com/lizeth45">(lizeth45):</a> </strong>Elaboró el modelo 3D, la implementación del mismo dentro de la aplicación en SwiftUI y entrenamiento de un modelo precargado de Machine Learning.
 <br>
 <br>
- - <strong>Chema Padilla <a href="https://github.com/clxsrdev">(clxsrdev):</a></strong> Elaboró la creación del modelo 3D, la implementación del mismo dentro de la aplicación en SwiftUI y entrenamiento de un modelo precargado de Machine Learning.
+ - <strong>Chema Padilla <a href="https://github.com/clxsrdev">(clxsrdev):</a></strong> Elaboró la navegación entre ventanas, animaciones dentro de la misma e implementación de materiales didácticos (videos, audios).
 <br>
 <br>
- - <strong>Michelle Ayala <a href="https://github.com/Michelle-AV">(Michelle-AV):</a> </strong>Elaboró la creación del modelo 3D, la implementación del mismo dentro de la aplicación en SwiftUI y entrenamiento de un modelo precargado de Machine Learning.
+ - <strong>Michelle Ayala <a href="https://github.com/Michelle-AV">(Michelle-AV):</a> </strong>Elaboró desde cero todos los elementos visuales de la aplicacion, así como la recolección de datos sobre manglares dentro de la región.
+<br>
 <br>
 
 ## 📸 Capturas de pantalla
