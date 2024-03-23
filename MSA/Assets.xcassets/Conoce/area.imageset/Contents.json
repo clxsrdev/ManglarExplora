@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "area-de-grafico.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
